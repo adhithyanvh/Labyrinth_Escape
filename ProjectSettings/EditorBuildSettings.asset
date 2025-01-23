@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2db64934a072bda45a6c077e065ffe4d
+  - enabled: 1
+    path: Assets/Scenes/Level01.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Scenes/Level02.unity
+    guid: 919ee36cac97e9b46b3f507c1b673721
+  - enabled: 1
+    path: Assets/Scenes/Level03.unity
+    guid: e0dfe060d94411145a70b5ba57590759
+  - enabled: 1
+    path: Assets/Scenes/Level04.unity
+    guid: ee32a18ebb707814ca63b536d595f813
+  - enabled: 1
+    path: Assets/Scenes/Level05.unity
+    guid: 4278229e10367dc418ef434b62ccae1f
+  - enabled: 1
+    path: Assets/Scenes/Level06.unity
+    guid: e1cd45913efec394394bc407323922f0
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: 5c791e79ec220f64fa0b8187c77745bc
+  - enabled: 1
+    path: Assets/Scenes/FailScenee.unity
+    guid: 378e40dbd794a9640a13315b4b502a03
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7892e16adc58c51469ad44b01835f13b,
+      type: 2}
